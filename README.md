@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi! I'm @nicoCT4
 
-<!--
-**nicoCT4/nicoCT4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student of **Computer Science and Information Technology Engineering** at the **Universidad del Valle de Guatemala (UVG)**, currently in my **third year**.
 
-Here are some ideas to get you started:
+👨‍💻 I'm interested in **web development**, both **frontend** and **backend**.  
+I'm learning to build complete solutions that follow best practices, performance optimization, and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ I have experience with:
+- **Python**, **Java**, **Kotlin**
+- **PostgreSQL** and relational databases
+
+🧠 I'm currently learning and working with:
+- Tools and frameworks for **fullstack web development**
+- Version control with **Git/GitHub**
+- **Docker** and basic service deployment
+
+💼 I'm looking for **job opportunities** or projects where I can collaborate to gain practical experience and continue learning as part of a team.
+
+📫 You can reach me at: **con23197@uvg.edu.gt**
+
+---
+
+⚡ **Fun fact:** I really enjoy working out — playing soccer, lifting weights, and running.
